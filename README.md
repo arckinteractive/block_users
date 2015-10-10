@@ -1,2 +1,2 @@
 # block_users
-block users and prevent them from seeing your profile or messaging you
+Adds an option to block users from seeing most of your content.
