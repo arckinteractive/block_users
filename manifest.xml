@@ -4,7 +4,7 @@
     <id>block_users</id>
     <author>Brett Profitt</author>
     <author>Matt Beckett</author>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <description>Adds an option to block users from seeing most of your content.</description>
     <website>http://www.elgg.org/</website>
     <copyright>(C) Mike Kasper 2011</copyright>
